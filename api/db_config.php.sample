@@ -1,0 +1,7 @@
+<?php
+// Переименуйте файл в db_config.php и впишите доступы к базе MySQL.
+// Данные берутся в ISPmanager: «Базы данных» → ваша база → пользователь.
+$DB_HOST = 'localhost';
+$DB_NAME = 'farvater';
+$DB_USER = 'farvater_user';
+$DB_PASS = 'ПАРОЛЬ';
